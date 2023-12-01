@@ -62,7 +62,7 @@ async def telebirr_payment_handler(c,m):
 
 
 
-@wase.on_message(filters.private & (filters.command(['card','airtime']) | filters.regex('ካርድ')))
+@wase.on_message(filters.private & (filters.command(['card','mobilecard']) | filters.regex('ካርድ')))
 async def payment_handler(c,m):
     force = await does_joined(c,m)
     if force == True:
@@ -110,8 +110,7 @@ async def payment_handler(c,m):
     await m.reply('''🍀ክፍያ የሚፈፅሙበትን መንገድ ይምረጡ።
 
 🍀በቴሌብር ከሆነ 👉🏻 /telebirr
-🍀በካርድ (Airtime) ከሆነ👉🏻 /airtime
-
+🍀በካርድ (ሞባይል ካርድ) ከሆነ👉🏻 /mobilecard
 🍿በቴሌብር ሲከፍሉ ተጨማሪ 10% ቦነስ ያገኛሉ።''')
   
         
