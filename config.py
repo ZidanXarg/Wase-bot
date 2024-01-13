@@ -65,7 +65,7 @@ class Variables:
     SEARCH_PENDING = "♻️በፍለጋ ላይ ትንሽ ይጠብቁ።"
     LOG_CHANNEL = -1001902316151
     API_HASH = "aecf9e2b7c655c4f916564ab6d598a73" 
-    BOT_TOKEN = "1076518145:AAF1p--xx6jaHHqEJUaOrXlQVRW8SO5ovLE"
+    BOT_TOKEN = "1076518145:AAHF0ZSqyOSljtbV-2LaPS5XPJkKoldIG8Y"
     BOT_ID = 1076518145
     SESSION = "BABc415oWHG30_c56ezBH8gRUfXd8c0dHF1DvZyZjoTDjPT03mBSeQh5V2CeWjU9mBdZld4dVtSioxvbnafKn8_crN4CuCDKozwfW0mF2DgjxdDrEzsqMinYl-AAKq9en_DzV4gN0a5lr3V695pU18uuwzXwZeW3M6EB7YZCtvwsiKXEzAQ28fFDRGrXi0ivyoaWVUAZFQFgPOi9hqDX2_VyY6k_MaAskzSTmxIHc8Op-XYevu2cqHseHsNvHnwDvaAHoRfT4K09WE8RpToajaeZr5ggGy2ei8yFAoenQQLiwN2JQSv6Y3vndyVavY7BpV-MeYmjKIg36xdhu-I670SxAAAAATzprmMA"
     FAQS = """🔴 ተደጋጋሚ ጥያቄዎች!
