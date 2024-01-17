@@ -67,7 +67,7 @@ class Variables:
     API_HASH = "aecf9e2b7c655c4f916564ab6d598a73" 
     BOT_TOKEN = "1076518145:AAHX2bqEjovgyOymiUDzQ6tCpuXQUgRIIa0"
     BOT_ID = 1076518145
-    SESSION = "BABc415oWHG30_c56ezBH8gRUfXd8c0dHF1DvZyZjoTDjPT03mBSeQh5V2CeWjU9mBdZld4dVtSioxvbnafKn8_crN4CuCDKozwfW0mF2DgjxdDrEzsqMinYl-AAKq9en_DzV4gN0a5lr3V695pU18uuwzXwZeW3M6EB7YZCtvwsiKXEzAQ28fFDRGrXi0ivyoaWVUAZFQFgPOi9hqDX2_VyY6k_MaAskzSTmxIHc8Op-XYevu2cqHseHsNvHnwDvaAHoRfT4K09WE8RpToajaeZr5ggGy2ei8yFAoenQQLiwN2JQSv6Y3vndyVavY7BpV-MeYmjKIg36xdhu-I670SxAAAAATzprmMA"
+    SESSION = "BAGrfXgAVqG5-IEAPq95fPm89IYH1W8V-gFXJuMtA3MtCUxPQKKjXjoWeTV3c7bE4nhYae0mkpBdciKL9LVqTTbf9E_SnsOaViH0TOJd-mqSqxVp7-6QlN39SA06Aw4qGgd2P9hgHCG9V02DchbyXAVNABfVvkyiqFzxQ6QcfwDrErjYS7StYsJYQdNph4NUlcWfbxyuWa2gXVnocl_0j1Q07vb2ZfdjuO4XS_5ZMGps6yonrbpMa1yQ4TiUtydyT5xcgiq3Uf1IOCXnASGQBFIn_0U1KjOSinlTM5GUXSGXA3ptOgEM10Ww6iisL4xAimTtzRqMjE0QOKeakodjIlC1vg-2nAAAAAE86a5jAA"
     FAQS = """🔴 ተደጋጋሚ ጥያቄዎች!
 
 1, እንዴት ነው ፊልም ማወርደው?
