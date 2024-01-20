@@ -74,7 +74,7 @@ async def film_handler(c,m):
         return
     else :
         pass 
-    comment(m.text)
+    print(m.text)
     _ , called = m.text.split(" ")
     try:
         await c.copy_message(user_id ,-1001850882727 , int(called) , protect_content = True)
