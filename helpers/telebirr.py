@@ -28,10 +28,8 @@ def telebirr(user_id, text):
         receiver = p['receiver_number']
         date = p['date']
         d , m , y = date.split('-')
-        x  = (int(d) >=17 and int(m) >= 9 and int(y) >=2023) 
-        f = (int(d) <17 and int(m) <= 9 and int(y) >= 2023) 
-        t = (int(d) <17 and int(m) >= 9 and int(y) >= 2023) 
-        if x or f or t:
+        x  = (int(y) >2023) 
+        if x :
             pass
         else :
             return('the payment is old')
@@ -45,14 +43,3 @@ def telebirr(user_id, text):
             return ('~ክፍያው ለኛ የተፈከፈለ አደለም❗️')
     elif p['status']== False :
          return ('~በዚ ሚሴጅ ምንም የተፈፀመ ክፍያ የለም❗️')
-         
-         
-         
-
-
-
-
-
-
-
-
