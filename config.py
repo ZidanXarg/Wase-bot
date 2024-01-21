@@ -1,4 +1,4 @@
-# all variables are included  here 
+# all variables f are included  here 
 
 class Variables:
     ALLOWED_CHATS = ['@Wase_Records_Group']
