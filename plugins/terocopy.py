@@ -16,7 +16,6 @@ userbot = wase ('performer',
 file_ids = {}
 @wase.on_message((filters.group & filters.command(['search'])) | (filters.private & filters.text))
 async def text_handler(c,m):
-    print(m)
     force = await does_joined(c,m)
     if force == True:
         return 
